@@ -1,0 +1,9 @@
+
+0. [.env ]
+    for mongodb_URI = sample_data
+1. make lib directory 
+   - db.js for mongodb connection mongoose
+   - create a cachedConnection like shown in a attached image 
+   - create globle typeScript varible types.d.ts  and cachedConnection  heck.
+
+2. 
